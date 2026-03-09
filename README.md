@@ -19,6 +19,7 @@ The skill runs three research waves — broad discovery, deep competitor profili
 ## Want to Analyze Your Own Market?
 
 ```bash
+claude plugin marketplace add ferdinandobons/startup-skill
 claude plugin install startup@startup-skill
 ```
 
